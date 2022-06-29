@@ -4,6 +4,7 @@ def run ():
     ancho = int(input('text hegiht '))
     area = high * ancho /2
     print(area)
+    
     print('it is wok!')
 
 
